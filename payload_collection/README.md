@@ -23,6 +23,9 @@ This project is conducted on an **individual basis** and focuses on analyzing ma
 | G0039    | Suckfly        |
 | G0062    | TA459          |
 
+### Members
+
+- Nisal Padukka (ID : 1353608)
 
 ### META DATA INFO 
 
@@ -62,6 +65,4 @@ This project is conducted on an **individual basis** and focuses on analyzing ma
 |32 |TA459          |G0062   |Gh0stRAT        |f1fc6998b7177ca0ecd35fc767c632cc597356b75e8281e26a3d41671c23ae51|SHA256   |Executable Malware/TA459/Gh0stRAT/f1fc6998b7177ca0ecd35fc767c632cc597356b75e8281e26a3d41671c23ae51.zip          |
 
 
-## Members
 
-- Nisal Padukka (ID : 1353608)
