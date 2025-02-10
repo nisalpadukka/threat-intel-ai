@@ -33,15 +33,3 @@ This project is conducted on an **individual basis** and focuses on analyzing ma
 | G0039    | Suckfly        |
 | G0062    | TA459          |
 
-## Repository Structure  
-
-```plaintext
-Malware Analysis Using Machine Learning
-│── Submission-2/
-│   ├── payload_collection.zip  # Collected malware executables and other payloads
-│   ├── meta_data_info.csv      # Metadata information about collected samples
-│   └── README.md  
-│
-└── README.md  # Main repository documentation 
-
-
