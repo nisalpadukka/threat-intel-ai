@@ -33,3 +33,11 @@ This project is conducted on an **individual basis** and focuses on analyzing ma
 | G0039    | Suckfly        |
 | G0062    | TA459          |
 
+### Submission Details
+
+| Submission    | Description         | URL                                                                                                             |
+|---------------|---------------------|-----------------------------------------------------------------------------------------------------------------|
+| Submission 2  | Payload Collection  | [submission_2.zip](https://github.com/nisalpadukka/threat-intel-ai/blob/main/payload_collection/submission_2.zip)  |
+| Submission 3  | Opcodes             | [submission_3.zip](https://github.com/nisalpadukka/threat-intel-ai/blob/main/opcodes/submission_3.zip)           |
+| Submission 4  | AI Agent            | [submission4.zip](https://github.com/nisalpadukka/threat-intel-ai/blob/main/ai_agent/submission4.zip)             |
+| Submission 5  | CNN                 | [submission5.zip](https://github.com/nisalpadukka/threat-intel-ai/blob/main/cnn/submission5.zip)                   |
